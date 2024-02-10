@@ -1,0 +1,38 @@
+.outer {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.books-list {
+    width: 500px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    text-align: center;
+    border: 1px solid black;    
+}
+
+.hidden {
+    display: none;
+}
+
+.m-auto {
+    margin: 0 auto;
+}
+
+
+.center {
+    text-align: center;
+}
+
+.m-bot {
+    margin-bottom: 20px;
+}
+
+.btn {
+    width: 150px;
+}

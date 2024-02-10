@@ -1,0 +1,26 @@
+.outer {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.cf-text {
+    width: 100%;
+    border: 1px solid black;
+    min-height: 300px;
+    padding-top: 20px;
+}
+
+
+.center {
+    text-align: center;
+}
+
+.m-bot {
+    margin-bottom: 20px;
+}
+
+.btn {
+    width: 150px;
+}
